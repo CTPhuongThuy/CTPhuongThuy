@@ -4,10 +4,10 @@
  ## Specialized:
  * Information Technology - Software Engineer
  ## Contact:
-   - Mail: 
-   - Phone: 
-   - Github: 
-   - Address: 
+   - Mail: vntphuongthuy.is@gmail.com
+   - Phone: 039 6421 ***
+   - Github: https://github.com/CTPhuongThuy
+   - Address: Ho Chi Minh City
    - Facebook:https://www.facebook.com/cao.thi.phuong.thuy.07
  ___
 ## 🛠️ My Skills
@@ -26,11 +26,13 @@
   &emsp;
    <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
+  </a>  &emsp;  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+   </a>                                                                                             
+  &emsp;
+   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="30"/> </a>
+  
   &emsp;
 </p>
 
@@ -121,12 +123,16 @@
 ## EDUCATION:
  * FPT University HCM 9/2019 - Present
  Software Engineering 
- * GPA: 8/10
+ * GPA: 8.1/10
 ## ACHIEVEMENTS:
+ * 70% SCHOLARSHIP HUNT FOR FPT UNIVERSITY    
  * Honorable Student Of The Semester 
- Students with GPA higher than 8.0 after 
- a semester at FPT University would 
- receive this title.
+ Students FALL 2021 - GPA 8.0
+ * Honorable Student Of The Semester 
+ Students SUMMER 2021 - GPA 8.4
+  * Honorable Student Of The Semester 
+ Students SPRING 2021 - GPA 8.3   
+                                                                                                                                       
 ## Language:
   * English : Basic 
   * Japanese: Basic 
