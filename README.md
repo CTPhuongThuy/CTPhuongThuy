@@ -123,7 +123,7 @@
 ## EDUCATION:
  * FPT University HCM 9/2019 - Present
  Software Engineering 
- * GPA: 8.1/10
+ * GPA: 8.2/10
 ## ACHIEVEMENTS:
  * 70% SCHOLARSHIP HUNT FOR FPT UNIVERSITY    
  * Honorable Student Of The Semester 
@@ -132,7 +132,9 @@
  Students SUMMER 2021 - GPA 8.4
   * Honorable Student Of The Semester 
  Students SPRING 2021 - GPA 8.3   
-                                                                                                                                       
+  * Honorable Student Of The Semester 
+ Students SUMMER 2022 - GPA 8.8                                 
+                                  
 ## Language:
   * English : Basic 
   * Japanese: Basic 
