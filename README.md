@@ -4,7 +4,7 @@
  ## Specialized:
  * Information Technology - Software Engineer
  ## Contact:
-   - Mail: vntphuongthuy.is@gmail.com
+   - Mail: caothiphuongthuy07@gmail.com
    - Phone: 039 6421 ***
    - Github: https://github.com/CTPhuongThuy
    - Address: Ho Chi Minh City
