@@ -16,14 +16,14 @@
  * GPA: ~ 8.2/10
 ## ACHIEVEMENTS:
  * 70% SCHOLARSHIP HUNT FOR FPT UNIVERSITY    
- * Honorable Student Of The Semester 
- Students FALL 2021 - GPA 8.0
- * Honorable Student Of The Semester 
- Students SUMMER 2021 - GPA 8.4
   * Honorable Student Of The Semester 
- Students SPRING 2021 - GPA 8.3   
+ Students SUMMER 2022 - GPA 8.8       
   * Honorable Student Of The Semester 
- Students SUMMER 2022 - GPA 8.8                                 
+ Students SPRING 2021 - GPA 8.3     
+ * Honorable Student Of The Semester 
+ Students SUMMER 2021 - GPA 8.4     
+ * Honorable Student Of The Semester 
+ Students FALL 2021 - GPA 8.0                   
                                   
 ## Language:
   * English : Basic 
