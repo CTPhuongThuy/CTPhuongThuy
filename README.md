@@ -15,7 +15,9 @@
  Software Engineering 
  * GPA: ~ 8.2/10
 ## ACHIEVEMENTS:
- * 70% SCHOLARSHIP HUNT FOR FPT UNIVERSITY    
+ * 70% SCHOLARSHIP HUNT FOR FPT UNIVERSITY   
+  * Honorable Student Of The Semester 
+ Students SPRING 2023 - GPA 8.5       
   * Honorable Student Of The Semester 
  Students SUMMER 2022 - GPA 8.8       
   * Honorable Student Of The Semester 
