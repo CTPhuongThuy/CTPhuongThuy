@@ -13,7 +13,7 @@
 ## EDUCATION:
  * FPT University HCM 9/2019 - Present
  Software Engineering 
- * GPA: ~ 8.2/10
+ * GPA: ~ 8.3/10
 ## ACHIEVEMENTS:
  * 70% SCHOLARSHIP HUNT FOR FPT UNIVERSITY   
   * Honorable Student Of The Semester 
